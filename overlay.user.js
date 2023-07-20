@@ -50,7 +50,7 @@ if (window.top !== window.self) {
 
     const loadOverlay = () => {
       const name = "canada";
-      const url = "https://d35ule242s0wem.cloudfront.net/overlay_colombia.png";
+      const url = "https://raw.githubusercontent.com/SantosXPC/place-colombia-2023/main/overlay_colombia.png";
       const x = 0;
       const y = 0;
       const width = 1000;
